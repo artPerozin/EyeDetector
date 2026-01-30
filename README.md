@@ -50,8 +50,8 @@ VisaoComputacional/
 ### 1️⃣ Clonar ou criar a pasta do projeto
 
 ```bash
-mkdir VisaoComputacional
-cd VisaoComputacional
+mkdir EyeDetector
+cd EyeDetector
 ```
 
 ### 2️⃣ Criar e ativar ambiente virtual
